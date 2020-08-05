@@ -1,8 +1,9 @@
 ### Hi there 👋
 I am Gowtham. I work in the intersection of humans and machines.
 
-👨‍💻 I have been working on Data Analyticcs/ Machine Learning projects for more than 2 years.
-📫 You can reach me at gteja0410@gmail.com
+- 👨‍💻 I have been working on Data Analyticcs/ Machine Learning projects for more than 2 years.
+
+- 📫 You can reach me at gteja0410@gmail.com
 
 <!--
 **gt0410/gt0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
