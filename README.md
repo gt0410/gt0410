@@ -1,7 +1,10 @@
 ### Hi there 👋
 I am Gowtham. I work in the intersection of humans and machines.
+
+👨‍💻 
 <!--
 **gt0410/gt0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
