@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Gowtham. I work in the intersection of humans and machines.
 
-- 👨‍💻 I have been working on Data Analyticcs/ Machine Learning projects for more than 2 years.
+- 👨‍💻 I have been working on Data Analyticcs/ Machine Learning projects for 3 years.
 
 - 📫 You can reach me at gteja0410@gmail.com
 
